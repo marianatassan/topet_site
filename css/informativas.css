@@ -100,7 +100,7 @@ body {
 }
 
 #higiene img{
-	/*margin-right: px;*/
+	margin-right: 10px;
 	width: 230px;
 	height: 200px;
 	float: left;
@@ -119,7 +119,9 @@ body {
 }
 #alimentacao img{
 	width: 325px;
-	float: right;	
+	float: right;
+	margin-right: 10px;
+	
 }
 
 #atividade img{
