@@ -101,6 +101,8 @@ body {
 
 #higiene img{
 	margin-right: 10px;
+	width: 325px;
+	height: 100px;
 	float: left;
 }
 
@@ -109,7 +111,6 @@ body {
 	text-align: center;
 	font-style: italic;
 }
-
 #alimentacao img{
 	margin-right: 10px;
 	width: 325px;
