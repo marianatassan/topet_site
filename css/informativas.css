@@ -102,13 +102,17 @@ body {
 #higiene img{
 	margin-right: 10px;
 	width: 325px;
-	height: 100px;
+	height: 170px;
 	float: left;
 }
 
+#higiene figure {
+	display: table;
+}
+
 #higiene figcaption {
-	float: left;
-	text-align: center;
+	display: table-caption;
+	caption-side: bottom;
 	font-style: italic;
 }
 #alimentacao img{
