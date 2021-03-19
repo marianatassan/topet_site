@@ -101,8 +101,12 @@ body {
 
 #higiene img{
 	margin-right: 10px;
-	width: 325px;
 	float: left;
+}
+
+#higiene figcaption {
+	float: left;
+	text-align: center;
 }
 
 #alimentacao img{
