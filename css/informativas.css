@@ -107,6 +107,7 @@ body {
 #higiene figcaption {
 	float: left;
 	text-align: center;
+	font-style: italic;
 }
 
 #alimentacao img{
