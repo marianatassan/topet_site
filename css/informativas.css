@@ -128,7 +128,8 @@ body {
 	margin-right: 10px;
 	width: 230px;
 	height: 200px;
-	float: left;	
+	float: left;
+	padding-bottom: 2em;	
 }
 
 #saude img{
