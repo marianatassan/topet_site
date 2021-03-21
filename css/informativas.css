@@ -133,8 +133,8 @@ body {
 }
 
 #saude img{
-	margin-right: 10px;
+	margin-left: 10px;
 	width: 230px;
 	height: 200px;
-	float: left;	
+	float: right;	
 }
