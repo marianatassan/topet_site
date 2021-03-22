@@ -92,6 +92,7 @@ body {
 .conteudo p {
 	font-size: 18px;
 	text-align: justify;
+	text-indent: 5 px;
 }
 
 .conteudo ul li {
